@@ -1,0 +1,1 @@
+docker run --rm -v c:/projects/adrianorc.com:/srv/jekyll -p 4000:4000 -it jekyll/builder jekyll serve --watch --drafts
